@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+#results {
+    float: left;
+    margin-right: 5px
+}
+
+#map {
+    width: 600px; 
+    height: 600px;
+    float: right;
+}
